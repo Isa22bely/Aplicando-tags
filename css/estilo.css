@@ -1,0 +1,6 @@
+table tr th, table tr td {
+    border: 0.1rem solid black;
+}
+table{
+    border-color: #a130a1;
+}
